@@ -29,7 +29,7 @@ Popis...
 
 ### Kdo jsme
 
-Kontakt... [Odkaz](https://example.com)
+Popis... kontakt... [Odkaz](https://example.com)
 
 ---
 
