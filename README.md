@@ -11,5 +11,7 @@ Popis.
 - Seznam vlastností.
 - **Plat v rozmezí od ... do ... Kč.**
 
+Kontakt.
+
 ---
 
