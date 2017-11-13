@@ -31,5 +31,6 @@ Popis...
 
 Popis... kontakt... [odkaz](https://example.com)
 
----
+> Za čáru až na konec vložte svoji nabídku.
 
+---
