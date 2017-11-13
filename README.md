@@ -1,6 +1,6 @@
 # Nabídky práce pro Polymeristy
 
-Job offers for Polymer web developers in Czechia.
+Job offers for Polymer web developers in Czechia & Slovakia.
 
 > Pro přidání práce klikněte na soubor `README.md` a pak vpravo nahoře na tlačítko Edit. Poté pošlete Pull request.
 
