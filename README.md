@@ -8,12 +8,28 @@ Vzor:
 
 ## Nadpis pracovní nabídky
 
-Popis.
+:house: Praha 1 &nbsp;&nbsp;&nbsp;
+:necktie: Zaměstnanec &nbsp;&nbsp;&nbsp;
+:clock9: Full-time, Part-time, Externě &nbsp;&nbsp;&nbsp;
+:euro: 30 000 - 100 000 Kč
 
-- Seznam vlastností.
-- **Plat v rozmezí od ... do ... Kč.**
+Popis...
 
-Kontakt.
+### Požadované dovednosti
+
+- Seznam...
+
+### Co budete dělat
+
+- Seznam...
+
+### Jaké výhody získáte při vstupu do naší společnosti
+
+- Seznam...
+
+### Kdo jsme
+
+Kontakt... [Odkaz](https://example.com)
 
 ---
 
